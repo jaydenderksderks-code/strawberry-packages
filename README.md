@@ -13,3 +13,7 @@ The repository is being set up. Package installation through Berry will be enabl
 ## License
 
 This repository is intended to be distributed under GNU General Public License v3.0 (GPL-3.0). See [GNU GPL v3.0](https://www.gnu.org/licenses/gpl-3.0.html).
+
+## Deployment
+
+The repository website is deployed with GitHub Actions.
